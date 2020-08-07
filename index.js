@@ -16,3 +16,5 @@ setTimeout(() => {
   inputSetTimeout.focus();
   inputSetTimeout.select();
 },500);
+
+// https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/select
